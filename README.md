@@ -10,7 +10,7 @@
 <img align="right" width="500px" alt="Unicorn" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <h4>
- 🔭 I’m currently working on **BackEnd Devlopment**
+ 🔭 I’m currently working on BackEnd Devlopment
 
  🌱 I’m currently learning **Python**
 
