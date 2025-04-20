@@ -4,8 +4,11 @@
 
 <h4>
  🔭 I’m currently working on BackEnd Devlopment
+ <br>
  🌱 I’m currently learning **Python**
+ <br>
  💬 Ask me about **Front End**
+ <br>
  📫 How to reach me **alazarthe70@gmail.com**
 </h4>
 
