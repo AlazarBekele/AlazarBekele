@@ -1,21 +1,11 @@
- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200">
-</p>
-<h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
-<hr>
-<p align="center">
-  
-  <br>
-</p>
+<p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"></p>
+<p align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</p>
 <img align="right" width="500px" alt="Unicorn" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <h4>
  🔭 I’m currently working on BackEnd Devlopment
-
  🌱 I’m currently learning **Python**
-
  💬 Ask me about **Front End**
- 
  📫 How to reach me **alazarthe70@gmail.com**
 </h4>
 
