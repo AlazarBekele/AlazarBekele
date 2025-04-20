@@ -3,13 +3,13 @@
 <img align="right" width="500px" alt="Unicorn" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <h4>
- 🔭 I’m currently working on <h2>BackEnd Devlopment</h2>
+ 🔭 I’m currently working on <h3>BackEnd Devlopment</h3>
  <br>
- 🌱 I’m currently learning Python
+ 🌱 I’m currently learning <h3>Python</h3>
  <br>
- 💬 Ask me about Front End
+ 💬 Ask me about <h3>Front End</h3>
  <br>
- 📫 How to reach me alazarthe70@gmail.com
+ 📫 How to reach me <h3>alazarthe70@gmail.com</h3>
 </h4>
 
 
