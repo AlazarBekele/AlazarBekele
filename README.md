@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"></p>
 <h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
 
-🔭 I’m currently working on " BACK END DEVLOPMENT "<br>🌱 I’m currently learning " PYTHON "<br>💬 Ask me about " FRONT END DEVELOPMENT "
+🔭 I’m currently working on " BACK END DEVLOPMENT "<br><br>💬 Ask me about " FRONT END DEVELOPMENT "
 
 </p>
 
