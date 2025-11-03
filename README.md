@@ -16,7 +16,6 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=AlazarBekele&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=AlazarBekele&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlazarBekele&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
