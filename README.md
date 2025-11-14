@@ -1,7 +1,18 @@
-<p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"></p>
+
 <h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
 
-🔭 I’m currently working on " BACK END DEVLOPMENT "<br><br>💬 Ask me about " FRONT END DEVELOPMENT "
+🔭 I’m currently working on " BACK END DEVLOPMENT "<br>💬 Ask me about " FRONT END DEVELOPMENT "
+
+<h1 style="font-wieght: bold;">Find me online</h1>
+
+<div style="display: flex;">
+
+<a href="https://www.linkedin.com/in/alazarbekele11/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="python" width="60" height="60"/></a>
+<a href="https://www.instagram.com/alazar_bekele11/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="python" width="60" height="60"/></a>
+    
+</div>
+
+<h1 style="font-wieght: bold;"></h1>
 
 </p>
 
