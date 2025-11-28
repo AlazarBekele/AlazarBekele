@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
 
-🔭 I’m currently working on " BACK END DEVLOPMENT "<br>💬 Ask me about " FRONT END DEVELOPMENT "
+🔭 I’m currently working on " BACK END DEVLOPMENT "<br>💬 Ask me about " FRONT END DEVELOPMENT " <br> 📬 Email me | alazarthe70@gmail.com
 
 <h1 style="font-wieght: bold;">Find me online</h1>
 
