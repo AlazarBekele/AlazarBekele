@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
 
+<h3>I’m a backend-focused Django developer, also skilled in UI, design, and media. I enjoy building real-world projects and collaborating.</h3>
+
 🔭 I’m currently working on " BACK END DEVLOPMENT "<br>💬 Ask me about " FRONT END DEVELOPMENT " <br> 📬 Get in touch | alazarthe70@gmail.com
 
 <h1 style="font-wieght: bold;">Find me online</h1>
