@@ -101,3 +101,11 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
 <p align="center">
   <i>"Building software that solves real problems, one commit at a time."</i>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
+</picture>
