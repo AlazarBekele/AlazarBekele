@@ -1,45 +1,103 @@
-<h1 align="center">Hi 👋, I'm Alazar Bekele, FullStack Developer</h1>
+<h1 align="center">Hi, I'm Alazar Bekele 👋</h1>
 
-<h3>I’m a backend-focused Django developer, also skilled in UI, design, and media. I enjoy building real-world projects and collaborating.</h3>
+<p align="center">
+  <b>Full Stack Developer</b> — Python · Django · JavaScript · C++ · Tailwind CSS
+</p>
 
-<ul>
-    <li>🔭 I’m currently working on " BACK END DEVLOPMENT "</li>
-    <li>💬 Ask me about " FRONT END DEVELOPMENT "</li>
-    <li>📬 Get in touch | alazarthe70@gmail.com</li>
-</ul>
-
-<h2 style="font-wieght: bold;">Find me online</h2>
-<div style="display: flex;">
-    <a href="https://www.linkedin.com/in/alazarbekele11/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="python" width="60" height="60"/></a>
-    <a href="https://www.instagram.com/alazar_bekele11/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="python" width="60" height="60"/></a>
-</div>
-<h1 style="font-wieght: bold;"></h1>
-<div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-<div align="center">
-    
-![](https://nirzak-streak-stats.vercel.app/?user=AlazarBekele&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlazarBekele&theme=radical_border=true&include_all_commits=true&count_private=fales&layout=compact)
+<p align="center">
+  📍 Addis Ababa, Ethiopia &nbsp;|&nbsp;
+  📬 <a href="mailto:alazarthe70@gmail.com">alazarthe70@gmail.com</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/alazarbekele11/">LinkedIn</a> &nbsp;|&nbsp;
+  🟢 Open to work & freelance
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlazarBekele&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
+## About me
+
+I'm a backend-focused Django developer with strong frontend skills, building real-world web applications that solve practical problems. I enjoy turning ideas into working products — from civic platforms to business tools.
+
+- 🔭 Currently working on backend systems with Django & REST APIs
+- 💬 Ask me about Django, Python, JavaScript, or full-stack web development
+- 🤝 Open to freelance projects, collaborations, and full-time opportunities
+- 📬 Reach me at **alazarthe70@gmail.com**
+
+---
+
+## Tech stack
+
+**Backend**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Frontend**
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**Other**
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## Featured projects
+
+### 🗳️ [National Election E-Vote](https://github.com/Ethiopian-inspired/National-Election---E-vote)
+> A secure web-based digital voting platform built with Django.
+
+- Authentication system with role-based access
+- Candidate and party management with approval workflow
+- Designed for transparent, auditable elections
+- `Django` `HTML` `MySQL`
+
+---
+
+### 📰 [Django Blog — Ethiopian News Platform](https://github.com/AlazarBekele/django-blog)
+> A multi-category news site inspired by Ethiopian BBC — covering News, Sport, Art, Kids & more.
+
+- Full Django backend with category filtering
+- MySQL database integration
+- Clean CSS-based UI
+- `Django` `Python` `MySQL` `CSS`
+
+---
+
+### 🧾 [Freelancer Project Tracker](https://github.com/AlazarBekele/Freelancer-Project-Tracker)
+> A productivity tool for freelancers to manage clients, projects, tasks, and invoices in one place.
+
+- Client and project management dashboard
+- Task tracking and invoice generation
+- `Python` `Django`
+
+---
+
+## Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/alazarbekele11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:alazarthe70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/alazar_bekele11/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building software that solves real problems, one commit at a time."</i>
+</p>
