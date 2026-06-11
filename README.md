@@ -109,3 +109,7 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+---
+
+[Alazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlazarBekele&show_icons=true&theme=radical)
