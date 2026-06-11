@@ -112,4 +112,4 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
 
 ---
 
-[Alazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlazarBekele&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlazarBekele&show_icons=true&theme=radical)
