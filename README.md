@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Alazar Bekele 👋</h1>
+# Hi, I'm Alazar Bekele 👋
 
 <p align="center">
-  <b>Full Stack Developer</b> — Python · Django · JavaScript · C++ · Tailwind CSS
+  <b>Full Stack Developer</b> — Python · Django · Django REST Framework · JavaScript · React
 </p>
 
 <p align="center">
@@ -15,43 +15,82 @@
 
 ## About me
 
-I'm a backend-focused Django developer with strong frontend skills, building real-world web applications that solve practical problems. I enjoy turning ideas into working products — from civic platforms to business tools.
+I'm a backend-focused full-stack developer building practical web applications with Django, REST APIs, JavaScript, and React. I enjoy turning ideas into working products, from civic platforms to business tools.
 
-- 🔭 Currently working on backend systems with Django & REST APIs
-- 💬 Ask me about Django, Python, JavaScript, or full-stack web development
+- 🔭 Building an HR/ERP system with Django REST Framework and React
+- 🧑‍💻 Working on employee management, profiles, authentication, and attendance features
+- 💬 Ask me about Python, Django, DRF, REST APIs, JavaScript, React, or full-stack development
 - 🤝 Open to freelance projects, collaborations, and full-time opportunities
 - 📬 Reach me at **alazarthe70@gmail.com**
 
 ---
 
-## Tech stack
+## Tech stack & tools
 
 **Backend**
 
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" />
+  <img alt="Django" src="https://skillicons.dev/icons?i=django" />
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/36abcc01-bc9a-464c-b43e-0dfa563ef09e" />
+</p>
+
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+
 
 **Frontend**
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+<p>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img alt="React" src="https://skillicons.dev/icons?i=react" />
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img alt="Vite" src="https://skillicons.dev/icons?i=vite" />
+  <img alt="VS Code" src="https://skillicons.dev/icons?i=vue" />
+</p>
 
-**Other**
+**Databases & services**
 
-![C++](https://skillicons.dev/icons?i=cpp)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p>
+  <img alt="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
+  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+**Developer tools**
+
+<p>
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" />
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+  <img alt="VS Code" src="https://skillicons.dev/icons?i=postman" />
+  <img alt="VS Code" src="https://skillicons.dev/icons?i=powershell" />
+  <img alt="Bun" src="https://skillicons.dev/icons?i=bun" />
+</p>
+
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-333333?style=flat)
 
 ---
 
 ## Featured projects
 
+### 🏢 HR / ERP System — In development
+
+> An HR management system built with Django REST Framework and React.
+
+- Employee listing, profiles, and employee information updates
+- JWT-based authentication and protected API endpoints
+- Developing attendance management as the next module
+- `Django` `DRF` `React` `JavaScript` `SQLite`
+
 ### 🗳️ [National Election E-Vote](https://github.com/Ethiopian-inspired/National-Election---E-vote)
+
 > A secure web-based digital voting platform built with Django.
 
 - Authentication system with role-based access
@@ -62,6 +101,7 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
 ---
 
 ### 📰 [Django Blog — Ethiopian News Platform](https://github.com/AlazarBekele/django-blog)
+
 > A multi-category news site inspired by Ethiopian BBC — covering News, Sport, Art, Kids & more.
 
 - Full Django backend with category filtering
@@ -72,6 +112,7 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
 ---
 
 ### 🧾 [Freelancer Project Tracker](https://github.com/AlazarBekele/Freelancer-Project-Tracker)
+
 > A productivity tool for freelancers to manage clients, projects, tasks, and invoices in one place.
 
 - Client and project management dashboard
@@ -84,15 +125,15 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
 
 <p>
   <a href="https://www.linkedin.com/in/alazarbekele11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:alazarthe70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/alazar_bekele11/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -109,7 +150,3 @@ I'm a backend-focused Django developer with strong frontend skills, building rea
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/AlazarBekele/AlazarBekele/output/github-contribution-grid-snake.svg"/>
 </picture>
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlazarBekele&show_icons=true&theme=radical)
